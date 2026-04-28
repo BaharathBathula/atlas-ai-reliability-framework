@@ -1,0 +1,11 @@
+atlas_weights:
+  trust: 0.30
+  latency: 0.20
+  accuracy: 0.30
+  stability: 0.20
+
+tier_thresholds:
+  platinum: 95
+  gold: 85
+  silver: 70
+  bronze: 50
